@@ -1,0 +1,8 @@
+coverage
+node_modules
+data
+resources
+/design_patterns.iml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
